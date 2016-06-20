@@ -57,7 +57,8 @@
         <exclude name="PEAR.Commenting.FunctionComment.SpacingBeforeTags"/>
 
         <!-- do not check line length -->
-        <exclude name="Generic.Files.LineLength"/>
+        <exclude name="Generic.Files.LineLength.MaxExceeded"/>
+        <exclude name="Generic.Files.LineLength.TooLong"/>
 
         <!-- covered by Squiz FunctionDeclarationSniff -->
         <exclude name="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
