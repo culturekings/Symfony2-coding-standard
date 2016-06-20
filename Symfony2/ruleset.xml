@@ -61,6 +61,10 @@
 
         <!-- covered by Squiz FunctionDeclarationSniff -->
         <exclude name="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+
+        <!-- do not check camel caps -->
+        <exclude name="Zend.NamingConventions.ValidVariableName.MemberVarNotCamelCaps"/>
+        <exclude name="Zend.NamingConventions.ValidVariableName.NotCamelCaps"/>
     </rule>
 
     <!-- Don't enforce Zend's private member underscores -->
