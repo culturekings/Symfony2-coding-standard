@@ -1,5 +1,5 @@
 {
-    "name": "escapestudios/symfony2-coding-standard",
+    "name": "culturekings/symfony2-coding-standard",
     "type": "coding-standard",
     "description": "CodeSniffer ruleset for the Symfony2 coding standard",
     "keywords": ["Symfony2", "coding standard", "phpcs"],
@@ -13,6 +13,10 @@
         {
             "name": "Community contributors",
             "homepage": "https://github.com/escapestudios/Symfony2-coding-standard/graphs/contributors"
+        },
+        {
+            "name": "Culture Kings",
+            "homepage": "http://www.culturekings.com.au"
         }
     ],
     "extra": {
